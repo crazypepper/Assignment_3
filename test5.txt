@@ -1,0 +1,19 @@
+Sir A: "Sir E, Sir F and I are Knights."
+
+Sir B: "at least one of us is a Knight."
+
+Sir C: "I am a Knight."
+
+Sir D: "exactly one of Sir A and Sir B is a Knave."
+
+Sir G: "at most one of Sir H, Sir J and I is a Knight."
+
+"All of us are Knight," said Sir G.
+
+"Sir J is a Knight," said Sir B.
+
+"Sir B, Sir C and Sir H are Knights," said Sir J. 
+
+Sir B: "Sir C is a Knight." 
+
+Sir E: "Sir A, Sir B, Sir C, Sir D and I are Kaves."
